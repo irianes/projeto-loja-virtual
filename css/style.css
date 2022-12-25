@@ -1,0 +1,22 @@
+@media screen and (min-width: 768px) {
+  .navbar-expand-md > .container{
+     flex-direction: column;
+  }
+}
+  
+header {
+    background-color: #f12f5d;
+  }
+  
+body {
+    background-color:#ffee35;
+  }
+  
+footer {
+    background-color: #f12f5d;
+  
+  }
+  
+  .icones-sociais li {
+    display: inline-block;
+  }
